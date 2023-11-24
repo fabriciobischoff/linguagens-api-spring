@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "uploadingfiles.storage.local.diretorio-fotos",
+  "type": "java.lang.String",
+  "description": "image storage location"
+}]}
